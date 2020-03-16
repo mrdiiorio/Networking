@@ -1,0 +1,8 @@
+- name: 4 x Female-to-female header leads
+  img: jumper-female-to-female
+- name: 1 x push button
+  img: tactile-push-button
+- name: 1 x LED
+  img: led
+- name: 1 x Network cable for each pair of Raspberry Pis
+  img: ethernet-cable
